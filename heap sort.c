@@ -41,6 +41,6 @@ void swap(int *a, int *b) {
 }
 void print(int array[M]) {
 	for (int i = 0; i < M; i++) {
-		printf("%3d", array[i]);
+		printf("%4d", array[i]);
 	}
 }
